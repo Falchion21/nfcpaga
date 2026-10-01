@@ -1,0 +1,21 @@
+# SingleFile export
+[NFC QUE VENDE (30_09_2026 14：02：20).html]
+rule = "page-saved-with-singlefile"
+url = "https://nfcquevende.com.br/"
+savedDate = "2026-09-30T14:02:20.000Z"
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Arquivos temporários de encoding/fix
+fix-encoding.*
+check.py
+teste.html
